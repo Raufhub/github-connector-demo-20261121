@@ -1,2 +1,13 @@
-# github-connector-demo-20261121
-Private synthetic repository for testing the GitHub connector
+# GitHub Connector Demo
+
+مستودع خاص ببيانات اصطناعية لاختبار موصل GitHub وعمليات القراءة الأساسية. لا يحتوي على بيانات شخصية أو أسرار أو شيفرة إنتاجية.
+
+## محتويات المستودع
+
+- `data/sample_issues.csv`: أمثلة لمسائل افتراضية لاختبار عرض ملفات البيانات.
+- `data/sample_release.json`: بيانات وصفية افتراضية لإصدار تجريبي.
+- `docs/connector-smoke-test.md`: قائمة بفحوصات قراءة مقترحة وأوامر GitHub CLI.
+
+## تنبيه
+
+كل الأسماء والمعرّفات والحالات الواردة في ملفات البيانات أمثلة مصطنعة، وليست مسائل GitHub فعلية أو بيانات مستخدمين.

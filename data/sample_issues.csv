@@ -1,0 +1,5 @@
+id,title,status,priority,area
+DEMO-001,Verify repository listing,open,high,connector
+DEMO-002,Read sample file contents,open,medium,contents
+DEMO-003,Confirm pull request visibility,closed,low,pull-requests
+DEMO-004,Check issue search behavior,open,medium,issues
